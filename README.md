@@ -138,7 +138,7 @@ const victor = {
 <br />
 
 <p align="center">
-  <a href="mailto:herculinvictorr@gmail.com">
+  <a href="mailto:vrherculini@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20email-020617?style=for-the-badge&amp;logo=gmail&amp;logoColor=f43f5e&amp;labelColor=0f172a" alt="Send an email" />
   </a>
   <a href="https://www.linkedin.com/in/victor-herculini">
