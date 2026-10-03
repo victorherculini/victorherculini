@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/vitaoh">
+  <a href="https://github.com/victorherculini">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2400&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=42&amp;lines=Building+clean+digital+experiences;Mobile%2C+Web+and+Backend+development;Driven+by+architecture%2C+logic+and+impact;Always+learning.+Always+shipping." alt="Typing introduction" />
   </a>
 </p>
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=a78bfa&labelColor=0f172a" alt="Instagram" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=vitaoh&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=victorherculini&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <br />
