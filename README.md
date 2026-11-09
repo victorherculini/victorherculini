@@ -1,153 +1,47 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;section=header&amp;color=0:020617,45:0f172a,75:1e1b4b,100:0891b2&amp;fontColor=e2e8f0&amp;fontSize=54&amp;fontAlignY=34&amp;desc=Fullstack%20Developer%20%7C%20Mobile%20and%20Web%20Builder%20%7C%20Problem%20Solver&amp;descAlignY=54&amp;descSize=18&amp;animation=fadeIn&amp;text=Victor%20Rodrigues%20Herculini&amp;v=2" alt="Victor Rodrigues Herculini header" />
-</div>
-
 <p align="center">
-  <a href="https://github.com/victorherculini">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2400&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=42&amp;lines=Building+clean+digital+experiences;Mobile%2C+Web+and+Backend+development;Driven+by+architecture%2C+logic+and+impact;Always+learning.+Always+shipping." alt="Typing introduction" />
-  </a>
+  <img src="assets/header.svg" alt="Victor Herculini — Software Developer, AI Developer, AI Operator and Founder" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-herculini">
-    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0f172a" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:vrherculini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=f43f5e&labelColor=0f172a" alt="Email" />
-  </a>
-
-  <a href="https://www.instagram.com/victorherculini/">
-    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=a78bfa&labelColor=0f172a" alt="Instagram" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=victorherculini&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="assets/title-about.svg" alt="About" width="100%" />
 </p>
-
-<br />
-
-## `// about`
-
-<br />
-
-```ts
-const victor = {
-  name: "Victor Rodrigues Herculini",
-  role: "Fullstack Developer",
-  location: "Sao Carlos, SP - Brazil",
-  education: "ADS at IFSP",
-  focus: ["Mobile", "Web Apps", "Backend", "Clean Architecture"],
-  mindset: "Build useful software with clarity, craft and consistency"
-};
-```
-
-<br />
-
-## `// tech stack`
-
-<br />
-
-<h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&amp;logo=openjdk&amp;logoColor=f97316&amp;labelColor=0f172a" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&amp;logo=python&amp;logoColor=facc15&amp;labelColor=0f172a" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e&amp;labelColor=0f172a" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-020617?style=for-the-badge&amp;logo=kotlin&amp;logoColor=a78bfa&amp;labelColor=0f172a" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/C-020617?style=for-the-badge&amp;logo=c&amp;logoColor=38bdf8&amp;labelColor=0f172a" alt="C" />
+  <img src="assets/about.svg" alt="Victor Herculini is a software developer working across web, mobile and AI. AI developer, AI operator and founder. Based in São Carlos, SP, Brazil. Studying Systems Analysis and Development at IFSP Araraquara." width="84%" />
 </p>
-
-<h3 align="center">Frontend and Mobile</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&amp;logo=html5&amp;logoColor=f97316&amp;labelColor=0f172a" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&amp;logo=css3&amp;logoColor=38bdf8&amp;labelColor=0f172a" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Mobile_Apps-020617?style=for-the-badge&amp;logo=googleplay&amp;logoColor=22c55e&amp;labelColor=0f172a" alt="Mobile Apps" />
-  <img src="https://img.shields.io/badge/Mobile_Tooling-020617?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=22c55e&amp;labelColor=0f172a" alt="Mobile Tooling" />
-  <img src="https://img.shields.io/badge/Java_Swing-020617?style=for-the-badge&amp;logo=openjdk&amp;logoColor=f97316&amp;labelColor=0f172a" alt="Java Swing" />
+  <img src="assets/title-focus.svg" alt="Focus" width="100%" />
 </p>
-
-<h3 align="center">Backend and Databases</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&amp;logo=mysql&amp;logoColor=38bdf8&amp;labelColor=0f172a" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&amp;logo=postgresql&amp;logoColor=60a5fa&amp;labelColor=0f172a" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle-020617?style=for-the-badge&amp;logo=oracle&amp;logoColor=ef4444&amp;labelColor=0f172a" alt="Oracle" />
+  <img src="assets/focus.svg" alt="Focus areas: web, mobile, AI and ventures" width="100%" />
 </p>
-
-<h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&amp;logo=git&amp;logoColor=f97316&amp;labelColor=0f172a" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&amp;logo=github&amp;logoColor=e2e8f0&amp;labelColor=0f172a" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&amp;logo=linux&amp;logoColor=facc15&amp;labelColor=0f172a" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=38bdf8&amp;labelColor=0f172a" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&amp;logo=vercel&amp;logoColor=e2e8f0&amp;labelColor=0f172a" alt="Vercel" />
+  <img src="assets/title-stack.svg" alt="Stack" width="100%" />
 </p>
-
-<br />
-
-## `// focus areas`
-
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/smartphone-tablet.png" width="56" alt="Mobile apps" />
-      <br />
-      <strong>Mobile Apps</strong>
-      <br />
-      <sub>Built for any screen</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/source-code.png" width="56" alt="Code" />
-      <br />
-      <strong>Web</strong>
-      <br />
-      <sub>Responsive interfaces</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/server.png" width="56" alt="Server" />
-      <br />
-      <strong>Backend</strong>
-      <br />
-      <sub>APIs and services</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/database.png" width="56" alt="Database" />
-      <br />
-      <strong>Data</strong>
-      <br />
-      <sub>Relational databases</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/idea.png" width="56" alt="Idea" />
-      <br />
-      <strong>Logic</strong>
-      <br />
-      <sub>Problem solving</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## `// connect`
-
-<br />
 
 <p align="center">
-  <a href="mailto:vrherculini@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20email-020617?style=for-the-badge&amp;logo=gmail&amp;logoColor=f43f5e&amp;labelColor=0f172a" alt="Send an email" />
-  </a>
-  <a href="https://www.linkedin.com/in/victor-herculini">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-020617?style=for-the-badge&amp;logo=linkedin&amp;logoColor=22d3ee&amp;labelColor=0f172a" alt="Connect on LinkedIn" />
-  </a>
+  <img src="assets/stack.svg" alt="LLMs, AI agents, prompt engineering, automation, APIs, workflows, Java, Kotlin, Android, Flutter, Python, JavaScript, C, HTML, CSS, MySQL, PostgreSQL, Oracle, Firebase, Java Swing, Git, GitHub, Linux, VS Code, Vercel" width="100%" />
 </p>
 
-<br />
+<p align="center">
+  <img src="assets/manifesto.svg" alt="Build. Automate. Scale. From idea to product, with code and AI." width="100%" />
+</p>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;section=footer&amp;color=0:0891b2,35:1e1b4b,70:0f172a,100:020617" alt="Footer" />
-</div>
+<p align="center">
+  <img src="assets/title-connect.svg" alt="Connect" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-herculini"><img src="assets/connect-linkedin.svg" alt="LinkedIn" height="56" /></a>
+  &nbsp;
+  <a href="mailto:vrherculini@gmail.com"><img src="assets/connect-email.svg" alt="Email" height="56" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/victorherculini/"><img src="assets/connect-instagram.svg" alt="Instagram" height="56" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Always learning. Always shipping." width="100%" />
+</p>
