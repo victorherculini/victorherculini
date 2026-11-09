@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Victor Herculini — Software Developer, AI Developer, AI Operator and Founder" width="100%" />
+  <img src="assets/header.svg" alt="Victor Herculini — Software Developer, AI Developer, AI Operator and Founder. AI-native, stack-agnostic." width="100%" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/about.svg" alt="Victor Herculini is a software developer working across web, mobile and AI. AI developer, AI operator and founder. Based in São Carlos, SP, Brazil. Studying Systems Analysis and Development at IFSP Araraquara." width="84%" />
+  <img src="assets/about.svg" alt="Victor Herculini is a web and mobile software developer, AI developer, AI operator and founder. No fixed stack: AI builds with whatever the problem needs. Based in São Carlos, SP, Brazil. Studying Systems Analysis and Development at IFSP Araraquara." width="84%" />
 </p>
 
 <p align="center">
@@ -19,15 +19,19 @@
 </p>
 
 <p align="center">
-  <img src="assets/title-stack.svg" alt="Stack" width="100%" />
+  <img src="assets/title-workflow.svg" alt="Workflow" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" alt="LLMs, AI agents, prompt engineering, automation, APIs, workflows, Java, Kotlin, Android, Flutter, Python, JavaScript, C, HTML, CSS, MySQL, PostgreSQL, Oracle, Firebase, Java Swing, Git, GitHub, Linux, VS Code, Vercel" width="100%" />
+  <img src="assets/workflow.svg" alt="Workflow: idea, prompt, build, ship" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/manifesto.svg" alt="Build. Automate. Scale. From idea to product, with code and AI." width="100%" />
+  <img src="assets/builds.svg" alt="What I build with AI: websites, web apps, mobile apps, SaaS, landing pages, dashboards, MVPs, AI agents, automations, chatbots, APIs, internal tools, integrations, anything" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/manifesto.svg" alt="Build. Automate. Scale. AI-native, stack-agnostic, outcome-driven." width="100%" />
 </p>
 
 <p align="center">
