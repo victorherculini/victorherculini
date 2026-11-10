@@ -31,10 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/manifesto.svg" alt="Build. Automate. Scale. AI-native, stack-agnostic, outcome-driven." width="100%" />
-</p>
-
-<p align="center">
   <img src="assets/title-connect.svg" alt="Connect" width="100%" />
 </p>
 
