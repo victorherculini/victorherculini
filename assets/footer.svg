@@ -1,1 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Footer"><title>Footer</title><style>.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style><defs><clipPath id="rr"><rect width="1200" height="130" rx="20"/></clipPath><linearGradient id="hl" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7c5cff" stop-opacity="0"/><stop offset=".28" stop-color="#7c5cff"/><stop offset=".58" stop-color="#ff4fa3"/><stop offset=".82" stop-color="#ffb35c"/><stop offset="1" stop-color="#ffb35c" stop-opacity="0"/></linearGradient><linearGradient id="ag" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7c5cff"/><stop offset=".5" stop-color="#ff4fa3"/><stop offset="1" stop-color="#ffb35c"/></linearGradient><radialGradient id="bl1"><stop offset="0" stop-color="#7c5cff" stop-opacity="0.28"/><stop offset=".55" stop-color="#7c5cff" stop-opacity="0.093"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient><radialGradient id="bl2"><stop offset="0" stop-color="#ff4fa3" stop-opacity="0.2"/><stop offset=".55" stop-color="#ff4fa3" stop-opacity="0.067"/><stop offset="1" stop-color="#ff4fa3" stop-opacity="0"/></radialGradient></defs><g clip-path="url(#rr)"><rect width="1200" height="130" rx="20" fill="#0a0a10"/><ellipse cx="250" cy="130" rx="420" ry="120" fill="url(#bl1)"/><ellipse cx="950" cy="130" rx="420" ry="120" fill="url(#bl2)"/><rect x=".5" y=".5" width="1199" height="129" rx="20" fill="none" stroke="#1c1c27"/><text class="m" x="421.8" y="66" font-size="18" fill="url(#ag)" textLength="356.4" lengthAdjust="spacing">Always learning. Always shipping.</text><rect x="786.2" y="50" width="10" height="20" rx="2" fill="#fff"><animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" dur="1.1s" repeatCount="indefinite"/></rect><text class="m" x="600" y="100" font-size="12" fill="#6e6e85" text-anchor="middle" letter-spacing="5">VICTOR RODRIGUES HERCULINI · 2026</text><rect x="0" y="0" width="300" height="2" fill="url(#hl)"><animateTransform attributeName="transform" type="translate" values="-300 0;1200 0;1200 0" keyTimes="0;0.8;1" dur="6s" begin="0s" repeatCount="indefinite"/></rect><rect x="0" y="128" width="300" height="2" fill="url(#hl)"><animateTransform attributeName="transform" type="translate" values="1200 0;-300 0;-300 0" keyTimes="0;0.8;1" dur="6s" begin="3s" repeatCount="indefinite"/></rect></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="126" viewBox="0 0 1200 126" role="img" aria-label="Always learning. Always shipping. Victor Rodrigues Herculini · 2026"><title>Always learning. Always shipping. Victor Rodrigues Herculini · 2026</title><style>.s{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Inter,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<defs>
+<clipPath id="fc"><rect width="1200" height="126" rx="20"/></clipPath>
+<linearGradient id="cbg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#0f1119"/>
+<stop offset="1" stop-color="#0a0b10"/>
+</linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset=".25" stop-color="#ffffff" stop-opacity="0.24"/>
+<stop offset=".5" stop-color="#818cf8" stop-opacity="0.34"/>
+<stop offset=".75" stop-color="#ffffff" stop-opacity="0.24"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#818cf8" stop-opacity="0"/>
+<stop offset=".5" stop-color="#818cf8" stop-opacity=".85"/>
+<stop offset="1" stop-color="#818cf8" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="fg1" cx="50%" cy="50%" r="50%">
+<stop offset="0" stop-color="#818cf8" stop-opacity="0.18"/>
+<stop offset="1" stop-color="#818cf8" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="fg2" cx="50%" cy="50%" r="50%">
+<stop offset="0" stop-color="#38bdf8" stop-opacity="0.10"/>
+<stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<g clip-path="url(#fc)">
+<rect width="1200" height="126" rx="20" fill="url(#cbg)"/>
+<ellipse cx="420" cy="130" rx="380" ry="100" fill="url(#fg1)"/>
+<ellipse cx="780" cy="130" rx="380" ry="100" fill="url(#fg2)"/>
+<rect x="0" y="0" width="1200" height="1.2" fill="url(#rim)"/>
+<rect x="0" y="0" width="220" height="1.5" fill="url(#gl)">
+<animateTransform attributeName="transform" type="translate" values="-220 0;1200 0;1200 0" keyTimes="0;0.7;1" dur="7.5s" repeatCount="indefinite"/>
+</rect>
+<text class="s" x="600" y="54" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="0.4" fill="#f4f6fb">Always learning. Always shipping.</text>
+<rect x="572" y="72" width="56" height="1.5" rx="0.75" fill="#818cf8" fill-opacity="0.6"/>
+<text class="m" x="600" y="98" text-anchor="middle" font-size="11" letter-spacing="3.2" fill="#757e95">VICTOR RODRIGUES HERCULINI · SÃO CARLOS, BR · 2026</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="125" rx="20" fill="none" stroke="#1f2333"/>
+</svg>

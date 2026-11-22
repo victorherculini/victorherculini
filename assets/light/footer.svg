@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="126" viewBox="0 0 1200 126" role="img" aria-label="Always learning. Always shipping. Victor Rodrigues Herculini · 2026"><title>Always learning. Always shipping. Victor Rodrigues Herculini · 2026</title><style>.s{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Inter,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<defs>
+<clipPath id="fc"><rect width="1200" height="126" rx="20"/></clipPath>
+<linearGradient id="cbg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#fafbfe"/>
+</linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset=".25" stop-color="#ffffff" stop-opacity="0.95"/>
+<stop offset=".5" stop-color="#4f46e5" stop-opacity="0.34"/>
+<stop offset=".75" stop-color="#ffffff" stop-opacity="0.95"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#4f46e5" stop-opacity="0"/>
+<stop offset=".5" stop-color="#4f46e5" stop-opacity=".85"/>
+<stop offset="1" stop-color="#4f46e5" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="fg1" cx="50%" cy="50%" r="50%">
+<stop offset="0" stop-color="#4f46e5" stop-opacity="0.10"/>
+<stop offset="1" stop-color="#4f46e5" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="fg2" cx="50%" cy="50%" r="50%">
+<stop offset="0" stop-color="#0284c7" stop-opacity="0.07"/>
+<stop offset="1" stop-color="#0284c7" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<g clip-path="url(#fc)">
+<rect width="1200" height="126" rx="20" fill="url(#cbg)"/>
+<ellipse cx="420" cy="130" rx="380" ry="100" fill="url(#fg1)"/>
+<ellipse cx="780" cy="130" rx="380" ry="100" fill="url(#fg2)"/>
+<rect x="0" y="0" width="1200" height="1.2" fill="url(#rim)"/>
+<rect x="0" y="0" width="220" height="1.5" fill="url(#gl)">
+<animateTransform attributeName="transform" type="translate" values="-220 0;1200 0;1200 0" keyTimes="0;0.7;1" dur="7.5s" repeatCount="indefinite"/>
+</rect>
+<text class="s" x="600" y="54" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="0.4" fill="#0b0e17">Always learning. Always shipping.</text>
+<rect x="572" y="72" width="56" height="1.5" rx="0.75" fill="#4f46e5" fill-opacity="0.6"/>
+<text class="m" x="600" y="98" text-anchor="middle" font-size="11" letter-spacing="3.2" fill="#747d94">VICTOR RODRIGUES HERCULINI · SÃO CARLOS, BR · 2026</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="125" rx="20" fill="none" stroke="#e1e5f0"/>
+</svg>

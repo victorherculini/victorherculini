@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="68" viewBox="0 0 288 68" role="img" aria-label="Instagram — @victorherculini"><title>Instagram — @victorherculini</title><style>.s{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Inter,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<defs>
+<clipPath id="cc"><rect x="4" width="280" height="68" rx="16"/></clipPath>
+<linearGradient id="cbg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#fafbfe"/>
+</linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset=".35" stop-color="#ffffff" stop-opacity="0.95"/>
+<stop offset=".65" stop-color="#ffffff" stop-opacity="0.95"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset=".5" stop-color="#ffffff" stop-opacity="0.45"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="cg" cx="50%" cy="50%" r="50%">
+<stop offset="0" stop-color="#e11d48" stop-opacity="0.08"/>
+<stop offset="1" stop-color="#e11d48" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<g clip-path="url(#cc)">
+<rect x="4" width="280" height="68" rx="16" fill="url(#cbg)"/>
+<ellipse cx="40" cy="34" rx="75" ry="52" fill="url(#cg)"/>
+<rect x="4" y="0" width="280" height="1.2" fill="url(#rim)"/>
+<g transform="skewX(-20)">
+<rect x="-80" y="0" width="58" height="68" fill="url(#sh)">
+<animateTransform attributeName="transform" type="translate" values="0 0;430 0;430 0" keyTimes="0;.42;1" dur="7s" begin="2.8s" repeatCount="indefinite"/>
+</rect>
+</g>
+<rect x="18" y="15" width="38" height="38" rx="11" fill="#e11d48" fill-opacity="0.08" stroke="#e11d48" stroke-opacity="0.20"/>
+<g transform="translate(26.5 23.5)"><g fill="none" stroke="#e11d48" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="15" height="15" rx="4.2"/><circle cx="10.5" cy="10.5" r="3.4"/><circle cx="14.7" cy="6.3" r="0.9" fill="#e11d48" stroke="none"/></g></g>
+<text class="s" x="68" y="29" font-size="14" font-weight="600" fill="#0b0e17">Instagram</text>
+<text class="m" x="68" y="47" font-size="11" fill="#747d94">@victorherculini</text>
+<g transform="translate(252 27)" fill="none" stroke="#747d94" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M2 10L10 2"/>
+<path d="M4 2H10V8"/>
+</g>
+</g>
+<rect x="4.5" y=".5" width="279" height="67" rx="16" fill="none" stroke="#e1e5f0"/>
+</svg>
